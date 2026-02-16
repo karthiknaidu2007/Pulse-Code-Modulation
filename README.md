@@ -61,13 +61,14 @@ plt.show()
 # Output Waveform
 ```
 1. PULSE CODE MODULATION:
-![WhatsApp Image 2026-02-16 at 9 33 06 AM](https://github.com/user-attachments/assets/93a62479-3528-4b72-9b2c-59bb98810553)
+```
+<img width="990" height="790" alt="image" src="https://github.com/user-attachments/assets/d16d2b60-ae77-4e72-b3a9-7b744f8e7864" />
 
 ```
-```
 2. DELTA MODULATION:
-<img width="990" height="590" alt="image" src="https://github.com/user-attachments/assets/3bb79bda-9cd8-44f5-b80f-922ade0993a6" />
 ```
+<img width="990" height="590" alt="image" src="https://github.com/user-attachments/assets/304323d4-b482-475d-af89-cd807834e80f" />
+
 # Results
 ```
 The analog signal was successfully encoded and reconstructed using PCM and DM techniques in Python, verifying their working principles.
