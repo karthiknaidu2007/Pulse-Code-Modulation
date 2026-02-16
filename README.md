@@ -61,7 +61,8 @@ plt.show()
 # Output Waveform
 ```
 1. PULSE CODE MODULATION:
-<img width="990" height="790" alt="image" src="https://github.com/user-attachments/assets/f2ee8104-09e2-480d-a421-ea0a5ceac543" />
+![WhatsApp Image 2026-02-16 at 9 33 06 AM](https://github.com/user-attachments/assets/93a62479-3528-4b72-9b2c-59bb98810553)
+
 ```
 ```
 2. DELTA MODULATION:
