@@ -69,7 +69,6 @@ plt.show()
 ```
 <img width="990" height="590" alt="image" src="https://github.com/user-attachments/assets/304323d4-b482-475d-af89-cd807834e80f" />
 
-# Results
-```
+# Results:
 The analog signal was successfully encoded and reconstructed using PCM and DM techniques in Python, verifying their working principles.
-```
+
